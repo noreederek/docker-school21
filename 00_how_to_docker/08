@@ -1,0 +1,2 @@
+docker pull alpine
+docker run --interactive --tty --rm alpine
